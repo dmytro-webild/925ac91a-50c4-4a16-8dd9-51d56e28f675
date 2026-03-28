@@ -59,45 +59,45 @@ export default function LandingPage() {
       description="Discover the latest generations of Apple AirPods. Premium sound, seamless connectivity, and unmatched comfort."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/professional-studio-photography-of-white-1774661840402-4beeb7ef.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/professional-studio-photography-of-white-1774661840402-4beeb7ef.png?_wi=1",
           imageAlt: "AirPods Max Silver",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png?_wi=1",
           imageAlt: "AirPods Pro 2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png?_wi=1",
           imageAlt: "AirPods Max Silver",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png?_wi=1",
           imageAlt: "AirPods 3rd Gen",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/close-up-of-apple-airpods-pro-2-in-charg-1774661838946-a6158092.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/close-up-of-apple-airpods-pro-2-in-charg-1774661838946-a6158092.png?_wi=1",
           imageAlt: "AirPods Pro Charging Case",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/close-up-of-apple-airpods-pro-2-in-charg-1774661838946-a6158092.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/close-up-of-apple-airpods-pro-2-in-charg-1774661838946-a6158092.png?_wi=2",
           imageAlt: "AirPods Pro Case",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png?_wi=2",
           imageAlt: "AirPods Pro 2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/professional-studio-photography-of-white-1774661840402-4beeb7ef.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/professional-studio-photography-of-white-1774661840402-4beeb7ef.png?_wi=2",
           imageAlt: "AirPods Collection",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png?_wi=2",
           imageAlt: "AirPods 3rd Gen",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png?_wi=2",
           imageAlt: "AirPods Max",
         },
       ]}
@@ -121,19 +121,19 @@ export default function LandingPage() {
           id: "prod1",
           name: "AirPods Pro (2nd Gen)",
           price: "$249",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-pro-2-generation-earbuds-white-s-1774661839052-749f830c.png?_wi=3",
         },
         {
           id: "prod2",
           name: "AirPods Max",
           price: "$549",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-max-silver-headset-premium-desig-1774661838890-7e2fcd01.png?_wi=3",
         },
         {
           id: "prod3",
           name: "AirPods (3rd Gen)",
           price: "$179",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/airpods-3rd-generation-white-clean-produ-1774661839413-fe1b2592.png?_wi=3",
         },
       ]}
       title="Our Collection"
@@ -180,7 +180,7 @@ export default function LandingPage() {
           role: "Creative Lead",
           company: "DesignCo",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/portrait-of-a-young-tech-savvy-professio-1774661839945-2d305a07.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/portrait-of-a-young-tech-savvy-professio-1774661839945-2d305a07.png?_wi=1",
         },
         {
           id: "t2",
@@ -212,7 +212,7 @@ export default function LandingPage() {
           role: "Audiophile",
           company: "SoundSpace",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/portrait-of-a-young-tech-savvy-professio-1774661839945-2d305a07.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYMuFoZ49ZAY2WptV5JIBiM57P/portrait-of-a-young-tech-savvy-professio-1774661839945-2d305a07.png?_wi=2",
         },
       ]}
       title="What Our Customers Say"
